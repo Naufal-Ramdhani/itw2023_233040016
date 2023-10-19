@@ -1,0 +1,26 @@
+body {
+    background-color: aqua;
+    font-family: Georgia;
+
+}
+h1{
+    font-family: Comic Sans MS;
+    font-size: 60px;
+    color: darkblue;
+    text-align: center;
+}
+
+ h4{
+    text-align: right;
+    font-style: italic;
+ }
+
+ #kanan {
+        line-height: 30px;
+        text-align: right;}
+ #warnaoren { 
+    text-align:center;
+    color: rgb(255, 153, 0);}
+ #putih {color: white;
+        font-variant:small-caps;
+        }
