@@ -1,0 +1,21 @@
+.kotak {
+    width: 150px; 
+    height: 150px;
+    background-color: chartreuse;
+    margin: 50px auto;
+    /* border-top-left-radius: 50%;
+    border-top-right-radius: 50%;
+    border-bottom-right-radius: 50% ; */
+    /* border-radius: 50% 50% 50% 0; */
+    /* box-shadow: <x-offset> <y-offset> <blur> [size] <color>; */
+    box-shadow: 0px 0px 0px 10px red, 0px 0px 0px 20px blue, 0px 0px 0px 30px green;
+
+}
+
+.kotak:hover {
+    transition: 5s;
+    transform : rotate(360deg);
+    background-color: violet;
+    border-radius: 50%;
+    
+}
